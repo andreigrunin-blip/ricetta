@@ -15,3 +15,4 @@ olio d'oliva q.b.
 panna acida q.b.
 finocchietto selvatico q.b.
 * piatto servito
+* Il piatto e buono
